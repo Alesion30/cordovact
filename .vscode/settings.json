@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    ".eslintignore": true,
+    ".eslintrc": true,
+    ".prettierignore": true,
+    ".gitignore": true,
+    "README.md": true,
+    "yarn.lock": true
+  }
+}
