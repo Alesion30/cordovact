@@ -1,5 +1,5 @@
 const CracoAlias = require("craco-alias");
-const path= require("path");
+const path = require("path");
 
 module.exports = {
   plugins: [
@@ -18,8 +18,8 @@ module.exports = {
     },
   },
   webpack: {
-    configure: (webpackConfig, { env, paths })=> {
-      paths.appBuild= webpackConfig.output.path= path.resolve("www");
+    configure: (webpackConfig, { env, paths }) => {
+      paths.appBuild = webpackConfig.output.path = path.resolve("www");
       return webpackConfig;
     },
   },

@@ -3,10 +3,10 @@
     "node_modules": true,
     ".eslintrc": true,
     ".eslintignore": true,
-    ".prettierignore": true,
+    // ".prettierignore": true,
     ".gitignore": true,
     "README.md": true,
     "package-lock.json": true,
-    "tsconfig.paths.json": true,
+    "tsconfig.paths.json": true
   }
 }
