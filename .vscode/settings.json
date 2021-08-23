@@ -6,7 +6,7 @@
     ".prettierignore": true,
     ".gitignore": true,
     "README.md": true,
-    "yarn.lock": true,
+    "package-lock.json": true,
     "tsconfig.paths.json": true,
     "craco.config.js": true
   }
