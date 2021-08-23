@@ -7,6 +7,7 @@
     ".gitignore": true,
     "README.md": true,
     "yarn.lock": true,
-    "config-overrides.js": true
+    "tsconfig.paths.json": true,
+    "craco.config.js": true,
   }
 }
