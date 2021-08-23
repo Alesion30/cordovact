@@ -1,13 +1,13 @@
 {
   "files.exclude": {
     "node_modules": true,
-    ".eslintignore": true,
     ".eslintrc": true,
+    ".eslintignore": true,
     ".prettierignore": true,
     ".gitignore": true,
     "README.md": true,
     "yarn.lock": true,
     "tsconfig.paths.json": true,
-    "craco.config.js": true,
+    "craco.config.js": true
   }
 }
