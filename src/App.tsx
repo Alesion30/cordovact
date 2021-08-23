@@ -7,7 +7,7 @@ const App: React.VFC = () => {
       <header className="bg-blue-900 min-h-screen flex flex-col justify-center items-center text-2xl text-white">
         <img
           src={logo}
-          className="h-96 pointer-events-none animate-spin"
+          className="h-96 pointer-events-none animate-spin-slow"
           alt="logo"
         />
         <p>
