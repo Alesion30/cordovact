@@ -8,6 +8,5 @@
     "README.md": true,
     "package-lock.json": true,
     "tsconfig.paths.json": true,
-    "craco.config.js": true
   }
 }
